@@ -1,2 +1,3 @@
 Hello 
-bwd
+I am Mayank 
+right now on this very day when i am writing this i am learning about git and github
